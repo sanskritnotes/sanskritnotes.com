@@ -1,4 +1,4 @@
-site_description: "Vue.js - Intuitive, Fast and Composable MVVM for building interactive interfaces."
-google_analytics: UA-46852172-1
-root_domain: vuejs.org
+site_description: "Sanskrit Notes संस्कृत टिप्पणी - A easy modern introduction to the ancient language."
+# google_analytics: UA-46852172-1
+root_domain: sanskritnotes.com
 vue_version: 2.2.0
