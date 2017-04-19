@@ -5,7 +5,121 @@ type: api
 ## Sanskrit Conventions सङ्केत निर्देशः
 Standard conventions, naming and abbreviations to understand.
 
-### क्रियापदम्
+## नाम Noun
+
+The substantive or root of a नाम is declined in 8 cases and 3 numbers by adding suffixes. The विभक्ति declension table below shows how the substantive राम is written in the एकवचन, द्विवचन, बहुवचन
+
+
+|                | विभक्ति  | Cases        | कारक      | English                 | हिन्दी            |
+| -------------- | -------- | ------------ | --------- | ----------------------- | ----------------- |
+| **प्र. nom.**  | प्रथमा   | nominative   | कर्ता     | subject in a sentence   | ने                |
+| **द्वि. acc.** | द्वितीया | accusative   | कर्म      | objects in a sentence   | को                |
+| **तृ. instr.** | तृतीया   | instrumental | करण       | with, by, by means of   | से, के द्वारा     |
+| **च. dat.**    | चतुर्थी  | dative       | सम्प्रदान | to, for                 | को, को लिए        |
+| **पं. abl.**   | पञ्चमी   | ablative     | अपादान    | from, out of            | से, में से, पर से |
+| **ष. gen.**    | षष्ठी    | genitive     | सम्बन्ध   | of, belonging to        | का, के, की        |
+| **स. loc.**    | सप्तमी   | locative     | अधिकरण    | in, at, on, upon, among | मे, पे, पर        |
+| **सं. voc.**   | सम्बोधन  | vocative     | सम्बोधन   | Hey!, O!                | हे, अरे           |
+
+
+
+लिङ्ग gender can be पुल्लिङ्ग, स्त्रीलिङ्ग, नपुंसकलिङ्ग. Some nouns have more than one gender, नाम can end in a स्वर or a व्यञ्जन. Books contains table of नाम for all three genders, ending in different vowels and consonants.
+
+Three genders.
+
+|                | लिङ्ग       | Gender    |
+| -------------- | ----------- | --------- |
+| **पुं. m.**    | पुंलिङ्ग    | Masculine |
+| **स्त्री. f.** | स्त्रीलिङ्ग | Feminine  |
+| **नपुं. n.**   | नपुंसकलिङ्ग | Neuter    |
+
+Three numbers
+
+|           | वचन     | Numbers  |
+| --------- | ------- | -------- |
+| **ए.**    | एकवचन   | singular |
+| **द्वि.** | द्विवचन | dual     |
+| **ब.**    | बहुवचन  | plural   |
+
+### General inflection for नाम, विशेषणम्
+
+| अकार | अकारान्त |
+| ---- | -------- |
+| आकार | आकारान्त |
+| इकार | इकारान्त |
+| ईकार | ईकारान्त |
+| उकार | उकारान्त |
+| ऊकार | ऊकारान्त |
+| ऋकार | ऋकारान्त |
+| चकार | चकारान्त |
+| तकार | तकारान्त |
+| दकार | दकारान्त |
+| शकार | शकारान्त |
+| सकार | सकारान्त |
+
+
+### नामधातुः Denominative
+
+A नाम noun or विशेषण adjective is converted into a verbal form by following rules. At times, the letter य is added. For instance, तपः penance is a नाम, but तपस्यति practise penance is a new क्रियापद.
+
+## सर्वनाम Pronoun
+
+| अकारान्त           | तकारान्त              | दकारान्त              | मकारान्त              | सकारान्त  |
+| ------------------ | --------------------- | --------------------- | --------------------- | --------- |
+| अपर another, other | अन्यत् another, other | अस्मद् I, we          | किम् who, what ,which | अदस् that |
+| अस्मदीय ours       | कतरत् which of two    | युष्मद् you           | इदम् this             |           |
+| इतर others(of two) | भवत् your honor       | एतद् this             |                       |           |
+| उभ both            |                       | यद् who, what, which  |                       |           |
+| पर another         |                       | तद् he, she, it, that |                       |           |
+| परस्पर mutual      |                       |                       |                       |           |
+| सर्व all, every    |                       |                       |                       |           |
+| स्व one's own      |                       |                       |                       |           |
+
+## विशेषणम् Adjective
+
+The विशेषण follows the rules of its ending, and agrees with the नाम it qualifies. Besides simple adjectives, participles are grounded under the विशेषण. Like the क्रियापद, their root form and other details are given. Participles are called कृदन्त.
+
+| Participles       | Participles       | Participles | Participles | Participles       |
+| ----------------- | ----------------- | ----------- | ----------- | ----------------- |
+| Present Continous | Present Continous | Past        | Past        | Potential         |
+| परस्मैपद          | आत्मनेपद          | Active      | Passive     | Passive           |
+| शतृ               | शानच्             | क्तवत्      | क्त         | यत्/तव्यत्/अनीयर् |
+
+Examples:
+
+- नश्यत्सु - नश् - कृ शतृ नपुं स ब
+- यतमानः - यत् - कृ शा पु प्र ए
+- भीतानि - भी - कृ क्त नपुं प्र ब
+- श्रुतवान् - श्रु - कृ क्तवत् पु प्र ए
+- वेद्यः - विद् - कृ यत् पु प्र ए
+
+
+### विशेषणम् सङ्केत निर्देश
+
+कृ कृदन्त
+
+इच्छ इच्छार्थक
+
+तव्य तव्यत्
+
+प्रे प्रेरणार्थक
+
+शा शानच्
+
+## अव्ययम् Indeclinable
+
+This includes the conjugation, adverb, exclamation, तुमन्त infinitive and त्वान्त, ल्यबन्त (having given, having heard etc.). त्वान्त and ल्यबन्त are alike, except that ल्यबन्त has a prefix to its root. In तुमन्त, त्वान्त and ल्यबन्त, the root of the verb is mentioned.
+
+कृ. कृदन्त
+
+तुम. तुम्नत
+
+त्वा. त्वान्त
+
+ल्य. ल्यबन्त
+
+
+## क्रियापदम्
 
 ``` क्रि., vb., v.```
 
@@ -97,59 +211,16 @@ The धातु has 3 numbers, 3 types, 3 future forms:
 
 - **ति.** तिङ्न्त
 
+## समासः Compound, Combination of Meanings
 
-### नाम, विशेषणम्
+The most beautiful idea in संस्कृतव्याकरण is the समास (combination of meanings). समास is like sms - a short message. It condenses a great deal of information in one single word, to the great advantage of पद्य. Two or more words are methodically combined into one, with a particular meaning. The rules for forming समास or विग्रह (splitting it into its constituents) are too elaborate for this introduction. The four main classes of समास are:
 
+1. द्वन्द्व
+2. तत्पुरुष
+3. बहुव्रीहि
+4. अव्ययीभाव
 
-
-| अकार | अकारान्त |
-| ---- | -------- |
-| आकार | आकारान्त |
-| इकार | इकारान्त |
-| ईकार | ईकारान्त |
-| उकार | उकारान्त |
-| ऊकार | ऊकारान्त |
-| ऋकार | ऋकारान्त |
-| चकार | चकारान्त |
-| तकार | तकारान्त |
-| दकार | दकारान्त |
-| शकार | शकारान्त |
-| सकार | सकारान्त |
-
-
-
-Case विभक्ति in Sanskrit.
-
-|                | विभक्ति  | Cases        | कारक      | English                 | हिन्दी            |
-| -------------- | -------- | ------------ | --------- | ----------------------- | ----------------- |
-| **प्र. nom.**  | प्रथमा   | nominative   | कर्ता     | subject in a sentence   | ने                |
-| **द्वि. acc.** | द्वितीया | accusative   | कर्म      | objects in a sentence   | को                |
-| **तृ. instr.** | तृतीया   | instrumental | करण       | with, by, by means of   | से, के द्वारा     |
-| **च. dat.**    | चतुर्थी  | dative       | सम्प्रदान | to, for                 | को, को लिए        |
-| **पं. abl.**   | पञ्चमी   | ablative     | अपादान    | from, out of            | से, में से, पर से |
-| **ष. gen.**    | षष्ठी    | genitive     | सम्बन्ध   | of, belonging to        | का, के, की        |
-| **स. loc.**    | सप्तमी   | locative     | अधिकरण    | in, at, on, upon, among | मे, पे, पर        |
-| **सं. voc.**   | सम्बोधन  | vocative     | सम्बोधन   | Hey!, O!                | हे, अरे           |
-
-Three genders.
-
-|                | लिङ्ग       | Gender    |
-| -------------- | ----------- | --------- |
-| **पुं. m.**    | पुंलिङ्ग    | Masculine |
-| **स्त्री. f.** | स्त्रीलिङ्ग | Feminine  |
-| **नपुं. n.**   | नपुंसकलिङ्ग | Neuter    |
-
-Three numbers
-
-|           | वचन     | Numbers  |
-| --------- | ------- | -------- |
-| **ए.**    | एकवचन   | singular |
-| **द्वि.** | द्विवचन | dual     |
-| **ब.**    | बहुवचन  | plural   |
-
-
-
-### समासः
+Each of these four classes has subtypes. A समास can be clubbed with another समास too. Types are:
 
 #### द्वन्द्व
 
@@ -199,7 +270,16 @@ Three numbers
 
 अ भा
 
-### सन्धिः
+## सन्धिः Combination of Letters
+
+While समास combines meanings, सन्धि combines letters between two words, or within in a word. The four main types of सन्धि are:
+
+1. स्वरसन्धि
+2. विसर्गसन्धि
+3. विसर्गलोप
+4. व्यञ्जनसन्धि
+
+Each of these four classes has subtypes and is governed by various rules.
 
 #### स्वरसन्धि
 
@@ -254,109 +334,6 @@ Three numbers
 ष्टु स, ष्टु - ष्टुत्वसन्धि, ष्टुना ष्टुः
 
 सु स, ए सु - सुलोपसन्धि, एतत्तदोः, सुलोपोऽकोरनञ् समासे हलि
-
-### विशेषणम्
-
-कृ कृदन्त
-
-इच्छ इच्छार्थक
-
-तव्य तव्यत्
-
-प्रे प्रेरणार्थक
-
-शा शानच्
-
-### अव्ययम्
-
-कृ कृदन्त
-
-तुम तुम्नत
-
-त्वा त्वान्त
-
-ल्य ल्यबन्त
-
-
-## नाम Noun
-
-The substantive or root of a नाम is declined in 8 cases and 3 numbers by adding suffixes. The विभक्ति declension table below shows how the substantive राम is written in the एकवचन, द्विवचन, बहुवचन
-
-
-|                | विभक्ति  | Cases        | कारक      | English                 | हिन्दी            |
-| -------------- | -------- | ------------ | --------- | ----------------------- | ----------------- |
-| **प्र. nom.**  | प्रथमा   | nominative   | कर्ता     | subject in a sentence   | ने                |
-| **द्वि. acc.** | द्वितीया | accusative   | कर्म      | objects in a sentence   | को                |
-| **तृ. instr.** | तृतीया   | instrumental | करण       | with, by, by means of   | से, के द्वारा     |
-| **च. dat.**    | चतुर्थी  | dative       | सम्प्रदान | to, for                 | को, को लिए        |
-| **पं. abl.**   | पञ्चमी   | ablative     | अपादान    | from, out of            | से, में से, पर से |
-| **ष. gen.**    | षष्ठी    | genitive     | सम्बन्ध   | of, belonging to        | का, के, की        |
-| **स. loc.**    | सप्तमी   | locative     | अधिकरण    | in, at, on, upon, among | मे, पे, पर        |
-| **सं. voc.**   | सम्बोधन  | vocative     | सम्बोधन   | Hey!, O!                | हे, अरे           |
-
-
-
-
-लिङ्ग gender can be पुल्लिङ्ग, स्त्रीलिङ्ग, नपुंसकलिङ्ग. Some nounes have more than one gender, नाम can end in a स्वर or a व्यञ्जन. Books contains table of नाम for all three genders, ending in different vowels and consonants.
-
-
-
-### नामधातुः Denominative
-
-A नाम noun or विशेषण adjective is converted into a verbal form by following rules. At times, the letter य is added. For instance, तपः penance is a नाम, but तपस्यति practise penance is a new क्रियापद.
-
-## सर्वनाम Pronoun
-
-| अकारान्त           | तकारान्त              | दकारान्त              | मकारान्त              | सकारान्त  |
-| ------------------ | --------------------- | --------------------- | --------------------- | --------- |
-| अपर another, other | अन्यत् another, other | अस्मद् I, we          | किम् who, what ,which | अदस् that |
-| अस्मदीय ours       | कतरत् which of two    | युष्मद् you           | इदम् this             |           |
-| इतर others(of two) | भवत् your honor       | एतद् this             |                       |           |
-| उभ both            |                       | यद् who, what, which  |                       |           |
-| पर another         |                       | तद् he, she, it, that |                       |           |
-| परस्पर mutual      |                       |                       |                       |           |
-| सर्व all, every    |                       |                       |                       |           |
-| स्व one's own      |                       |                       |                       |           |
-
-## विशेषणम् Adjective
-
-The विशेषण follows the rules of its ending, and agrees with the नाम it qualifies. Besides simple adjectives, participles are grounded under the विशेषण. Like the क्रियापद, their root form and other details are given. Participles are called कृदन्त.
-
-| Participles       | Participles       | Participles | Participles | Participles       |
-| ----------------- | ----------------- | ----------- | ----------- | ----------------- |
-| Present Continous | Present Continous | Past        | Past        | Potential         |
-| परस्मैपद          | आत्मनेपद          | Active      | Passive     | Passive           |
-| शतृ               | शानच्             | क्तवत्      | क्त         | यत्/तव्यत्/अनीयर् |
-
-Examples:
-
-- नश्यत्सु - नश् - कृ शतृ नपुं स ब
-- यतमानः - यत् - कृ शा पु प्र ए
-- भीतानि - भी - कृ क्त नपुं प्र ब
-- श्रुतवान् - श्रु - कृ क्तवत् पु प्र ए
-- वेद्यः - विद् - कृ यत् पु प्र ए
-
-## सन्धिः Combination of Letters
-
-While समास combines meanings, सन्धि combines letters between two words, or within in a word. The four main types of सन्धि are:
-
-1. स्वरसन्धि
-2. विसर्गसन्धि
-3. विसर्गलोप
-4. व्यञ्जनसन्धि
-
-Each of these four classes has subtypes and is governed by various rules.
-
-## समासः Compound, Combination of Meanings
-
-The most beautiful idea in संस्कृतव्याकरण is the समास (combination of meanings). समास is like sms - a short message. It condenses a great deal of information in one single word, to the great advantage of पद्य. Two or more words are methodically combined into one, with a particular meaning. The rules for forming समास or विग्रह (splitting it into its constituents) are too elaborate for this introduction. The four main classes of समास are:
-
-1. द्वन्द्व
-2. तत्पुरुष
-3. बहुव्रीहि
-4. अव्ययीभाव
-
-Each of these four classes has subtypes. A समास can be clubbed with another समास too.
 
 ## छन्दः Prosody
 
@@ -481,11 +458,6 @@ In सतः षष्ठी contempt is shown, or the ideas 'even though', 'in 
 
 तेषु सङ्गः उपजायते। —> **ध्यायतः पुंसः** विषयान् तेषु सङ्गः उपजायते। —> **सतः षष्ठी** example
 
-
-
-## अव्ययम् Indeclinable
-
-This includes the conjugation, adverb, exclamation, तुमन्त infinitive and त्वान्त, ल्यबन्त (having given, having heard etc.). त्वान्त and ल्यबन्त are alike, except that ल्यबन्त has a prefix to its root. In तुमन्त, त्वान्त and ल्यबन्त, the root of the verb is mentioned.
 
 ## References and useful Resources
 All collected Sanskrit resources goes here.
